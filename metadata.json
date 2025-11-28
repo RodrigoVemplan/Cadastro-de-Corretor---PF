@@ -1,0 +1,5 @@
+{
+  "name": "Cadastro de Corretor Pessoa Física",
+  "description": "Formulário de cadastro multi-etapas para corretores de imóveis, incluindo upload de documentos, dados pessoais e aceitação de contrato.",
+  "requestFramePermissions": []
+}
